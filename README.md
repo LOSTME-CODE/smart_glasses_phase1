@@ -12,10 +12,6 @@
 
 An AI-powered assistive system that combines **YOLOv8 object detection** and **MiDaS depth estimation** to help visually impaired users understand their surroundings through real-time environment analysis.
 
----
-
-
----
 
 <h3><a class="anchor" id="overview"></a>Overview</h3>
 
